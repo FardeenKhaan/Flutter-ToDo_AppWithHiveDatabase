@@ -1,4 +1,6 @@
-# todo_hive_app
+# ToDo-List App Using Hive Database
+In this Project ToDo app using Database called Hive and you will delete the list and make the lists and then after you closed the app and then  re open the app from start, the app work from that point where you close the app.
+[Important]!!! First, if you run the app you see the form and then after you sign up button pressed you goto the todo app
 
 A new Flutter project.
 
